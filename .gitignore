@@ -1,4 +1,5 @@
-o
+*.pydevproject
+.metadata
 .gradle
 bin/
 tmp/
